@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "537021742973",
+    "project_id": "doctorappointment-77010",
+    "storage_bucket": "doctorappointment-77010.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537021742973:android:a39b75bfdf72b975f65614",
+        "android_client_info": {
+          "package_name": "com.example.ecoms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537021742973-h1vlvg5c652andafi7fulqh57r7ju7eq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQP59pSfir5vCYrmmcOb5nU7zIgwC0SOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537021742973-h1vlvg5c652andafi7fulqh57r7ju7eq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "537021742973-212ea0fnb9ngqkpm2qv0dv7oria4d32h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecoms"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
